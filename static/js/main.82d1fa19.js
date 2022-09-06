@@ -6,7 +6,7 @@
                 
                     var p= "";
                     Object.defineProperty(t, "p", {
-                        get: function() { return "kcContext" in window ? "https://demo-app.keycloakify.dev" : p; },
+                        get: function() { return "kcContext" in window ? "https://demo-app-advanced.keycloakify.dev" : p; },
                         set: function (value){ p = value;}
                     });
                     
@@ -19,7 +19,7 @@
                 
                     var p= "";
                     Object.defineProperty(t, "p", {
-                        get: function() { return "kcContext" in window ? "https://demo-app.keycloakify.dev" : p; },
+                        get: function() { return "kcContext" in window ? "https://demo-app-advanced.keycloakify.dev" : p; },
                         set: function (value){ p = value;}
                     });
                     
