@@ -6,4 +6,6 @@ This is why I made sure to use .my-root-account-class instead of .my-root-class 
 
 .my-root-account-class {
 	background: url(./assets/background.svg) no-repeat center center fixed;
+	width: auto;
+	height: 100svh;
 }
